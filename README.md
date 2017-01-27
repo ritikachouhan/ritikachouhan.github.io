@@ -1,10 +1,9 @@
-
 <html>
     <head>
     <style>
     .cls1{
     border:10px solid midnightblue;
-    height:200px;
+   
     width:148px;
     float:left; 
 }
@@ -14,31 +13,32 @@
     font-size:19px;
     letter-spacing:1px;
     font-weight:bold;
-    height:60px;
-    margin:10px;
-    width:99%;
+    padding-top:10px;
     padding-left:180px;
-    padding-top:12px;
     font-family:Open Sans,Helvetica Neue,Helvetica,Arial,sans-serif;
     
 }
 .cl3{
     background-color:rgb(215, 213, 213);
     color:white;
-    padding-left:180px;
-    width:100%;
-   
+    margin-left:179px;
+    margin-top:20px;
     font-family:Open Sans,Helvetica Neue,Helvetica,Arial,sans-serif;
 
 }
 p{
-border:10px solid midnight
     color:midnightblue;
 }
+.container{
+    border:10px solid midnightblue;
+    background-color:rgb(215, 213, 213);;
+}
 
-    </style>    
+    
+    </style>
     </head>
     <body>
+        <div class="container">
         <div class="cls1">
          <img src="https://tse3.mm.bing.net/th?id=OIP.M639c50d07dc90cf4aae788e101293b77o1&pid=15.1&P=0&w=300&h=300" height="200px">
         </div>
@@ -69,6 +69,7 @@ border:10px solid midnight
         <h4>CONTACT</h4>
         <p>8557044850</p>
         <hr>
+        </div>
         </div>
        
         
