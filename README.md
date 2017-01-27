@@ -3,7 +3,7 @@
     <style>
 .cls1{
     border:10px solid midnightblue;   
-    width:168px;
+    width:158px;
     float:left; 
 }
 .cls2{
