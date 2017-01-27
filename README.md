@@ -13,7 +13,7 @@
     font-size:19px;
     letter-spacing:1px;
     font-weight:bold;
-    padding-top:10px;
+    padding-top:5px;
     padding-left:180px;
     font-family:Open Sans,Helvetica Neue,Helvetica,Arial,sans-serif;
     
