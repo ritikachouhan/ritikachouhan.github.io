@@ -27,11 +27,12 @@
     color:white;
     padding-left:180px;
     width:100%;
-     border:10px solid midnightblue;
+   
     font-family:Open Sans,Helvetica Neue,Helvetica,Arial,sans-serif;
 
 }
 p{
+border:10px solid midnight
     color:midnightblue;
 }
 
