@@ -2,9 +2,8 @@
     <head>
     <style>
     .cls1{
-    border:10px solid midnightblue;
-   
-    width:148px;
+    border:10px solid midnightblue;   
+    width:158px;
     float:left; 
 }
 .cls2{
