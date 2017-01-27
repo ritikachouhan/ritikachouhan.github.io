@@ -4,7 +4,7 @@
 .cls1{
     border:10px solid midnightblue;   
     width:168px;
-    height:168px;
+    height:200px;
     float:left; 
 }
 .cls2{
