@@ -31,7 +31,7 @@ p{
 }
 .container{
     border:10px solid midnightblue;
-    background-color:rgb(215, 213, 213);;
+    background-color:rgb(215, 213, 213);
 }
 
     
