@@ -1,7 +1,7 @@
 <html>
     <head>
     <style>
-    .cls1{
+.cls1{
     border:10px solid midnightblue;   
     width:158px;
     float:left; 
