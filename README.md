@@ -16,7 +16,7 @@
     font-weight:bold;
     height:60px;
     margin:10px;
-    width:100%;
+    width:99%;
     padding-left:180px;
     padding-top:12px;
     font-family:Open Sans,Helvetica Neue,Helvetica,Arial,sans-serif;
