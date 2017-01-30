@@ -19,7 +19,7 @@
 .section2-content{
     background-color:rgb(215, 213, 213);
     color:white;
-    padding-top:10px;
+    padding-top:20px;
     padding-left:180px;
      border:10px solid midnightblue;
     font-family:Open Sans,Helvetica Neue,Helvetica,Arial,sans-serif;
