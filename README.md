@@ -8,6 +8,7 @@
 .section2-name{
     background-color:midnightblue;
     color:rgb(215, 213, 213);
+    border-right:10px solid midnightblue;
     font-size:19px;
     letter-spacing:1px;
     font-weight:bold;
@@ -34,7 +35,7 @@ p{
     <body>
         <div class="wrapper">
             <div class="section1-image">
-                <img src="https://tse3.mm.bing.net/th?id=OIP.M639c50d07dc90cf4aae788e101293b77o1&pid=15.1&P=0&w=300&h=300" height="200px" width="150px">
+                <img src="https://tse3.mm.bing.net/th?id=OIP.M639c50d07dc90cf4aae788e101293b77o1&pid=15.1&P=0&w=300&h=300" height="190px" width="150px">
                 
             </div>
             <div class="section2">
