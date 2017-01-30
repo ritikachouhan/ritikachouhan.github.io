@@ -1,14 +1,13 @@
 <html>
     <head>
-<style>
-.section1-image{
+    <style>
+    .section1-image{
     border:10px solid midnightblue;
     float:left; 
 }
 .section2-name{
     background-color:midnightblue;
     color:rgb(215, 213, 213);
-    border-right:10px solid midnightblue;
     font-size:19px;
     letter-spacing:1px;
     font-weight:bold;
@@ -29,9 +28,9 @@ p{
     color:midnightblue;
 }
 
-
-</style>
-</head>
+    </style>
+    
+    </head>
     <body>
         <div class="wrapper">
             <div class="section1-image">
@@ -68,8 +67,13 @@ p{
                     <p>8557044850</p>
                     <hr>
                     </div>
-                    </div>     
-</body>
+                    </div>
+            
+        
+       
+        
+       
+    </body>
 </html>
 
 
