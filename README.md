@@ -3,7 +3,7 @@
     <style>
     .section1-image{
     border:10px solid midnightblue;
-    line-height:1.5px
+    line-height:1.5px;
     float:left; 
 }
 .section2-name{
